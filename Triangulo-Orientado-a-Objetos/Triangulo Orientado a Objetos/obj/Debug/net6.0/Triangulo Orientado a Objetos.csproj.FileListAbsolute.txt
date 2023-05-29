@@ -1,0 +1,15 @@
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\bin\Debug\net6.0\Triangulo Orientado a Objetos.exe
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\bin\Debug\net6.0\Triangulo Orientado a Objetos.deps.json
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\bin\Debug\net6.0\Triangulo Orientado a Objetos.runtimeconfig.json
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\bin\Debug\net6.0\Triangulo Orientado a Objetos.dll
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\bin\Debug\net6.0\Triangulo Orientado a Objetos.pdb
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.csproj.AssemblyReference.cache
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.AssemblyInfoInputs.cache
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.AssemblyInfo.cs
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.csproj.CoreCompileInputs.cache
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.dll
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\refint\Triangulo Orientado a Objetos.dll
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.pdb
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\Triangulo Orientado a Objetos.genruntimeconfig.cache
+C:\Users\Fabian\Source\Repos\Triangulo-Orientado-a-Objetos\Triangulo Orientado a Objetos\obj\Debug\net6.0\ref\Triangulo Orientado a Objetos.dll
